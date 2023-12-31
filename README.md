@@ -14,20 +14,29 @@ right now USE css is **under development**
 <li> <b>theme</b> based customization</li>
 <li> <b>UI</b> focused </li>
 <li> <b>lightweight</b> framework </li>
+<li> responsive </li>
+<li> a mimialistic and friendly css framework </li> 
 <li> ready to use at your project without the worry of design</li>
 
 
 
 
-### cdn for testing the USE css framework
+# cdn for testing the USE css framework
 
-- html link 
+## html link 
 ```
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/MANIKANDANMLT/usecss@main/main.css">
 ```
-- cdn link
+## cdn link
 https://cdn.jsdelivr.net/gh/MANIKANDANMLT/usecss@main/main.css
 
+
+## for responsive design use the **<META> tag** in the head tag
+```
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+```
 # integration
 
 its so simple as this
