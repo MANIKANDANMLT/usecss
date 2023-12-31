@@ -5,6 +5,20 @@ A **free** and **Open Source** css framework for the UI in an website ,developer
 right now USE css is **under development**
 ![version](https://img.shields.io/badge/version-0.3-blue)
 
+<img align="left" width="250" height="250" src="usecsslogo.png" margin="20px">
+
+## why "use-css"?
+
+<li> <b>simple</b> to integrate </li>
+<li> one class approach </li>
+<li> <b>theme</b> based customization</li>
+<li> <b>UI</b> focused </li>
+<li> <b>lightweight</b> framework </li>
+<li> ready to use at your project without the worry of design</li>
+
+
+
+
 ### cdn for testing the USE css framework
 
 - html link 
@@ -20,7 +34,7 @@ its so simple as this
 
 ### namings for the themes we offer are real life environment based so its easy to keep those in mind
 
-#themes offered
+# themes offered
 
 - forest  (forest based greenish theme)
 - lava    (volcano based reddish theme)
