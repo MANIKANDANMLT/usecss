@@ -34,13 +34,10 @@ right now USE css is **under development**
 
 # cdn for testing the USE css framework
 
-## html link 
+## cdn link 
 ```
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/MANIKANDANMLT/usecss@main/main.css">
 ```
-## cdn link
-https://cdn.jsdelivr.net/gh/MANIKANDANMLT/usecss@main/main.css
-
 
 ## for responsive design use the **<META> tag** in the head tag
 ```
