@@ -5,7 +5,7 @@ A **free** and **Open Source** css framework for the UI in an website ,developer
 right now USE css is **under development**
 ![version](https://img.shields.io/badge/version-0.3-blue)
 
-<img align="left" width="250" height="250" src="usecsslogo.png" margin="20px">
+<img align="left" width="300" height="300" src="usecsslogo.png" margin="20px">
 
 ## why "use-css"?
 
