@@ -3,7 +3,18 @@
 A **free** and **Open Source** css framework for the UI in an website ,developer friendly and uesr friendly approch is the goal of this framework. 
 
 right now USE css is **under development**
+
+**made for**
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ![version](https://img.shields.io/badge/version-0.3-blue)
+![license](https://img.shields.io/badge/license-MIT-reen)
+![creator](https://img.shields.io/badge/creator-Manikandan.S-yellow)
+![language](https://img.shields.io/badge/language-css-purple)
+
+![useage](https://img.shields.io/badge/useage-OpenSource-white)
+![framework size](https://img.shields.io/badge/framework.size-24kb-red)
+![phase](https://img.shields.io/badge/phase-development-orange)
 
 <img align="left" width="300" height="300" src="usecsslogo.png" margin="20px">
 
