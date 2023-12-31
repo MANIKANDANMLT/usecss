@@ -12,7 +12,7 @@ right now USE css is **under development**
 ![creator](https://img.shields.io/badge/creator-Manikandan.S-yellow)
 ![language](https://img.shields.io/badge/language-css-purple)
 
-![useage](https://img.shields.io/badge/useage-OpenSource-white)
+![usage](https://img.shields.io/badge/usage-OpenSource-white)
 ![framework size](https://img.shields.io/badge/framework.size-24kb-red)
 ![phase](https://img.shields.io/badge/phase-development-orange)
 
