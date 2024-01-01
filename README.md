@@ -7,7 +7,7 @@ right now USE css is **under development**
 **made for**
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![version](https://img.shields.io/badge/version-0.3-blue)
+![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![license](https://img.shields.io/badge/license-MIT-reen)
 ![creator](https://img.shields.io/badge/creator-Manikandan.S-yellow)
 ![language](https://img.shields.io/badge/language-css-purple)
